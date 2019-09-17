@@ -1,0 +1,82 @@
+
+
+body { 
+    min-width: 980px;
+    text-align: center;
+    height: 600px;
+    background-color: darkgrey;
+    
+    
+   
+}
+
+#wrapper {
+    width: 980px;
+    height: 100%;
+    margin: 0 auto;
+    
+   
+    
+}
+#header {
+    width: 980px;
+    min-height: 50px;
+    border: 1px solid black;
+    border-top: none;
+    background-color: grey;
+    font-family: cursive ;
+    color: white;
+    
+   
+}
+
+#nav { 
+    padding: 20px;
+    color: black;
+    font-family: MV Boli;}
+
+
+
+#leftside {
+    min-width: 200px;
+    float: left;
+    background-color: grey;
+    min-height: 100%;
+}
+
+#center {
+    min-width: 780px;
+    min-height: 100%;
+    float: right;
+    background-color: white;
+    
+}
+
+footer {
+    
+}
+
+
+
+/** ********* Boxing ************************** **/
+#boxinghead {
+    
+    color: lightgrey;
+    font-family: MV Boli;}
+#boxingtable {
+    width: 780px;
+    height: 200px;
+    color: lightgrey; 
+}
+#boxingimage {
+    float: left;
+}
+
+
+/** ********* Bible ************************** **/
+
+#bibletable {
+    width: 780px;
+    height: 200px;
+    color: black; 
+}
